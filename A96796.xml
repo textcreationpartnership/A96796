@@ -1,0 +1,167 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The case between Clement VValker, Esq. and Humphrey Edwards, truely stated.</title>
+            <author>Walker, Clement, 1595-1651.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1650</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96796</idno>
+            <idno type="STC">Wing W323</idno>
+            <idno type="STC">Thomason 669.f.15[38]</idno>
+            <idno type="STC">ESTC R211959</idno>
+            <idno type="EEBO-CITATION">99870624</idno>
+            <idno type="PROQUEST">99870624</idno>
+            <idno type="VID">163112</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96796)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 163112)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 246:669f15[38])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The case between Clement VValker, Esq. and Humphrey Edwards, truely stated.</title>
+                  <author>Walker, Clement, 1595-1651.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1650]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Walker, Clement, 1595-1651 --  Early works to 1800.</term>
+               <term>Edwards, Humphrey, d. 1658 --  Early works to 1800.</term>
+               <term>False arrest --  Great Britain --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="statement">
+            <pb facs="tcp:163112:1" rendition="simple:additions"/>
+            <head>The Caſe between <hi>Clement VValker,</hi> Eſq. and <hi>Humphrey Edwards,</hi> truely ſtated.</head>
+            <p>CLEMENT WALKER, Eſq. ſeiſed of the Office of <hi>Chiefe Uſher of the Exchequer</hi> (his antient Inheritance) for Life, the Remainder to MARY his ſecond Wife, and the Heires Males of their two Bodies: hath conſtantly adhered to the Parliament from the beginning; and acted for them: whereby he hath loſt above 10000l. of his Eſtate, taken by the Kings Party: and hath 3000l. owing to him layd out of his Purſe (for the moſt part) in the Publique Service; and ſtandeth bound at this time for about 5000l. taken up at <hi>Briſtoll,</hi> for the Parliament Forces (which never came into his fingring) for which he is dayly threatned to be Sued. Nor hath he ever had any Compenſation or Be<g ref="char:EOLhyphen"/>neficiall Imployment under them as other Men have had.</p>
+            <p>Yet one HUMPHREY EDWARDS (a Parliament-man upon an Undue Election, as hath beene Voted at the Committee of Elections) greedy of an Office, after he had in vaine ſolicited the Committee of Sequeſtrations to Sequeſter the ſaid CLEMENT WALKER, and conferre the ſaid Office upon him) hath (at laſt) prevailed with the Committee of the Revenue (whereof he is a Member) to beſtow the ſaid Office upon him, the ſaid EDWARDS (in recompence of his good Service in attending the <hi>KING</hi> to the Houſe of Commons when He came to demand the Five Members) by their Order, dated 10 <hi>Febr.</hi> 1649. in theſe words:
+<q>
+                  <p>Whereas <hi>Clement Walker,</hi> Eſq. Uſher of the Publique Revenue, is now a Priſoner in the Tower, &amp;c. and thereby not in a Capacity to execute that Office hi<gap reason="illegible: faint" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>; It is therefore this day Ordered by this Com<g ref="char:EOLhyphen"/>mittee, &amp;c. That <hi>Humphrey Edwards</hi> a Member of Parliament doe execute the ſaid Office. &amp;c. untill the Parliament declare their Pleaſure therein. And that he ſhall have, receive, and enjoy all lawfull and juſt Allowances, Perquiſites and Priviledges belonging, in as full and ample manner as the ſaid <hi>Clement Walker</hi> had and enjoyed the ſame.</p>
+               </q>
+Upon which Order obſerve,</p>
+            <p n="1">1. <note place="margin">
+                  <gap reason="illegible: missing" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <hi>ds</hi> is one of <gap reason="illegible: missing" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> ſtopped the <gap reason="illegible: missing" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Arrears, pur<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: missing" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>o neceſſitate <gap reason="illegible: missing" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ell their De<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: missing" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>o them a<gap reason="illegible: missing" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>gs in the <gap reason="illegible: missing" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> which <gap reason="illegible: missing" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ps, <gap reason="illegible: missing" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </note> That for Maſter <hi>Walker</hi>'s Impriſonment, he hath been above twenty weeks in Priſon (to his great charge and loſſe after ſo many ſufferings for the Parliament) whereas <hi>Edwards</hi> never loſt any thing for the Parliament, having alwaies been a half-faced Cavalier, changing his Party for his Profit) upon a bare ſuſpition, and nothing legally proved againſt him, although two or three Seſſions and one Aſſize have intervened. And this by the ſolicitation and underhand working of the ſaid <hi>Edwards</hi> and his Party; as in due time ſhall be proved by an Action of Conſpiracy to be brought againſt them, For begging his Eſtate before any Conviction or Forfeiture, and malitiouſly proſecuting Maſter <hi>Walker</hi> in an unlawfull way, and upon falſe ſuggeſtions.</p>
+            <p n="2">2. Maſter <hi>Walker</hi>'s Impriſonment doth not diſable him to execute the ſaid Office; he having an able Deputy therein, that hath forty yeares executed the Place: And the ſaid Office hath for the moſt part been executed by Deputies, whereas the ſaid <hi>Edwards</hi> underſtands not the Place.</p>
+            <p n="3">3. To Order, [That <hi>Edwards</hi> ſhall Execute the Place, untill the Parliament declare their Pleaſure therein] Is in effect to Order, That by the Practiſes of <hi>Edwards</hi> and his Party, the ſaid <hi>Clement Walker</hi> ſhall be perpetually impriſoned; or untill he ſtarve in Priſon: he having already loſt ſo much of his E<g ref="char:EOLhyphen"/>ſtate; and being unduly deſpoyled of the reſt.</p>
+            <p n="4">4. To diſſeiſe Maſter <hi>Walker</hi> of his Free-hold, onely becauſe he is ſo impriſoned, as aforeſaid, for a time: no Crime being proved againſt him; no Abuſer or neglect of the Place; and without any Legall proceedings (as if he were a Conquered Slave) will ill agree with the Juſtice of a Parliament that hath uſed ſo much Severity againſt Tyranny: and hath publiſhed ſuch liberall Promiſes as are contained in their two Declarations, 9 <hi>Febr.</hi> and 17 <hi>March,</hi> 1648. to keep the Fundamentall Lawes of this Land concerning the Preſervation of the Lives, Proprieties and Liberties of the People; however it may agree with the Committee of the Revenue; Publicans and Sinners ſitting at the Receipt of Cuſtome to enrich themſelves. And here it is fit to remind all People of <hi>Magna Charta,</hi> and <hi>the Petition of Right, 30 Car.</hi> ſo much commended by this Parliament.</p>
+            <p n="5">5. The Committee of the Revenue have no Authority to diſſeiſe any Man of his Free-hold; for any time: and to diſpoſe thereof amongſt themſelves. A practice odious both to God and Man; directly contrary to all the knowne Lawes of the Land, and all the Declarations, &amp;c. of this Parliament, and deſtructive to all Formes of Civill Government whatſoever.</p>
+            <p n="6">6. Whereas the ſaid <hi>Clement Walker</hi> expected the ſaid <hi>Edwards</hi> ſhould have moved the Parliament to confirme and ratifie the ſaid Order of the ſaid Committee; and had provided to make his defence. The ſaid <hi>Edwards,</hi> audaciouſly, (without the Privity of the Parliament) upon Thurſday, 21 <hi>March,</hi> 1649. came to the Houſe belonging to the Office of the ſaid Maſter <hi>Walker</hi> (wherein his Deputy, an old ſickly Man was with the dores ſhut upon him) where the ſaid <hi>Edwards</hi> (with his Sword by his ſide) knocking at the dore of the ſaid Houſe, demanded Entrance: and being denied, Curſed and Swore like a Mad-man; calling the ſaid Deputy, Rogue: and many other Opprobrious Tearmes; fit onely for the mouth of ſuch a Fellow, whoſe Converſation with his owne <gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>t ſtinks all the Towne over: At laſt the ſaid <hi>Edwards</hi> threatned to bring a File of Muſquetiers to the Houſe: the terrour whereof made the poore old Man open the dores to him. Thus Maſter <hi>Walker</hi> was caſt out of his quiet and antient Poſſeſſion.</p>
+            <p n="7">7. The ſaid Committee of the Revenue gave ſtrict charge to their Clerks to give forth no Copie of the ſaid Order; but to conceale it: That the ſaid Mr. <hi>Walker</hi> might the better be ſurprized, and clandeſtinely robbed of his ſaid Inheritance.</p>
+            <p>Hereupon, the ſaid <hi>Clement Walker,</hi> upon Wedneſday, 27 <hi>March,</hi> 1650. ſent one of his Sonnes with directions and commands to <hi>Weſtminſter</hi> to endeavour to recover the Poſſeſſion of his ſaid Houſe. Who lying in waite untill the Fellow that kept Poſſeſſion for <hi>Edwards</hi> went forth; ſlipt into the ſaid Houſe quietly, and ſnatched the Key out of his hands. Which Act the ſaid <hi>Clement Walker</hi> doth hereby juſtifie and avow to all the world, as being conformable to the knowne Lawes of the Land; and that he is there<g ref="char:EOLhyphen"/>by Legally reſtored to his antient and quiet Poſſeſſion againe.</p>
+            <closer>
+               <signed>CLEMENT WALKER.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
